@@ -1,0 +1,5 @@
+﻿  main.cpp
+  matrice.cpp
+C:\Users\Robert\source\repos\Matrice\Matrice\matrice.cpp(124,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Matrice.vcxproj -> C:\Users\Robert\source\repos\Matrice\Debug\Matrice.exe
